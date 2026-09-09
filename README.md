@@ -19,10 +19,10 @@ A full-stack expense tracking app with an analytics dashboard, built with React,
 ## Project Structure
 
 ExpenseTracker/
-├── backend/ # Express API, DB connection, server entry point
-├── frontend/ # React app
-├── database/ # SQL schema
-└── .gitignore
+── backend/
+── frontend/
+── database/ 
+── .gitignore
 
 
 ## Setup
