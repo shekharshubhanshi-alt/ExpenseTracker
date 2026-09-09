@@ -18,6 +18,7 @@ A full-stack expense tracking app with an analytics dashboard, built with React,
 
 ## Project Structure
 
+```text
 ExpenseTracker/
 ├── backend/
 │   ├── .env.example
@@ -36,7 +37,7 @@ ExpenseTracker/
 │   └── seed.sql
 ├── .gitignore
 └── README.md
-
+```
 
 ## Setup
 
