@@ -19,10 +19,23 @@ A full-stack expense tracking app with an analytics dashboard, built with React,
 ## Project Structure
 
 ExpenseTracker/
-── backend/
-── frontend/
-── database/ 
-── .gitignore
+├── backend/
+│   ├── .env.example
+│   ├── db.js
+│   ├── package.json
+│   └── server.js
+├── frontend/
+│   ├── App.jsx
+│   ├── index.html
+│   ├── main.jsx
+│   ├── package.json
+│   ├── styles.css
+│   └── vite.config.js
+├── database/
+│   ├── schema.sql
+│   └── seed.sql
+├── .gitignore
+└── README.md
 
 
 ## Setup
